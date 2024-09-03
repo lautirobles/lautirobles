@@ -1,6 +1,6 @@
 ## Hola a todos 👋! Mi nombre es Lautaro Robles
 
-Tengo 20 años y actualmente soy estudiante de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional, facultad regional Córdoba. Te dejo un resumen sobre mis habilidades y mi perfil.
+Bienvenidos a mi perfil! Soy estudiante de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional, facultad regional Córdoba. Te dejo un resumen sobre mis habilidades y mi perfil.
 
 ## Sobre Mí
 - Soy tecnico electrónico
