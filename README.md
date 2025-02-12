@@ -14,6 +14,10 @@ Bienvenidos a mi perfil! Soy estudiante de Ingenier√≠a en Sistemas de Informaci√
 - HTML5
 - CSS3
 - JS
+- React
+- Node
+- MongoDB
+- SQL
 - Git
 - Github
 - C++
